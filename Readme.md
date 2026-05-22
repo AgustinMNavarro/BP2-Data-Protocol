@@ -12,14 +12,3 @@ The repository is organized into the following core components:
 *   **Experimental Scripts:** The reading scripts and materials utilized during the experiments.
 
 ---
-
-## 🛠️ Repository Structure
-
-```text
-├── protocol/
-│   ├── 17_part_protocol.md    # The complete protocol structured in 17 parts
-│   └── generation_prompt.txt  # The original prompt used to generate the protocol
-├── scripts/
-│   ├── experiment_01.py       # Script used for the first set of experiments
-│   └── ...                    # Other scripts read and executed during testing
-└── README.md
