@@ -1,3 +1,0 @@
-Natural Phrase Script =
-
-How are you Mica. Finally, yesterday i got to go to the cinema. I watched that movie related to AI. Yes, i think you saw it, right? Yeah, the one in which a bunch of robots go crazy, and start killing humans. One of the robots, the leader, is actually portrayed as a digital Jesus. He doesn’t want the robots to kill the humans, but he has to be careful, because one of the robots wants to kill him and become the one and only Digital Jesus Christ. Oh, I thought you liked the movie. Oh, sorry. Well, I did. I’m actually looking forward to watch the next by the same director. You didn’t even like Tom Cruise's performance? He ran like crazy all the movie. He keeps getting better at running. He is the best looking running actor in the movie business.
